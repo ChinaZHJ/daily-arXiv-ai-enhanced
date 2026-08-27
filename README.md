@@ -7,7 +7,7 @@
 > If your jurisdiction has censorship requirements for academic data, run this code with caution; any secondary distribution version must remove the entrance accessible to China and fulfill the content review obligations, otherwise all legal consequences will be borne by the downstream.
 
 
-This innovative tool transforms how you stay updated with arXiv papers by combining automated crawling with AI-powered summarization.
+This innovative tool transforms how you stay updated with arXiv papers by combining automated crawling with AI-powered summarization. 
 
 
 ## ✨ Key Features
